@@ -1,0 +1,57 @@
+.Enter ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.Enter li {
+    display: inline-block;
+    margin: 20px;
+}
+.Enter header {
+    text-align: center;
+    text-decoration: underline;
+    color: gray;
+}
+.Enter label,
+.Enter input {
+    margin: 25px;
+    height: 30px;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+}
+.Enter a {
+    margin: 30px;
+    text-decoration: none;
+    color: green;
+}
+
+.Enter a:hover,
+.Enter a:active,
+.Enter a.active {
+    color: #b7e414;
+}
+
+.Question span {
+    float: right;
+}
+div {
+    margin: 1%;
+}
+
+.Answers {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.Answer {
+    padding: 25px;
+    border: 1px solid gray;
+}

@@ -1,0 +1,124 @@
+{
+  "options": [
+    {
+      "questionID": 1,
+      "title": "General Knowledge",
+      "detail": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "answers": [
+        {
+          "id": 1,
+          "score": 4,
+          "answer": "largest station"
+        },
+        {
+          "id": 2,
+          "score": 3,
+          "answer": "highest station"
+        },
+        {
+          "id": 3,
+          "score": 2,
+          "answer": "longest station"
+        },
+        {
+          "id": 4,
+          "score": 1,
+          "answer": "None of these"
+        }
+      ],
+      "correctAnswerID": 1
+    },
+    {
+      "questionID": 2,
+      "title": "General Science",
+      "detail": "Brass gets discoloured in presence of which of the following gases in air?",
+      "answers": [
+        {
+          "id": 1,
+          "score": 4,
+          "answer": "Oxygen"
+        },
+        {
+          "id": 2,
+          "score": 3,
+          "answer": "Hydrogen"
+        },
+        {
+          "id": 3,
+          "score": 2,
+          "answer": "Carbon dioxide"
+        },
+        {
+          "id": 4,
+          "score": 1,
+          "answer": "Nitrogen"
+        }
+      ],
+      "correctAnswerID": 2
+    },
+    {
+      "questionID": 3,
+      "title": "Sports",
+      "detail": "How long are professional Golf Tour players allotted per shot?",
+      "answers": [
+        {
+          "id": 1,
+          "score": 4,
+          "answer": "45 seconds"
+        },
+        {
+          "id": "2",
+          "score": 0,
+          "answer": "25 seconds"
+        }
+      ],
+      "correctAnswerID": 1
+    },
+    {
+      "questionID": 4,
+      "title": "Technology",
+      "detail": "In which decade was American Institute of Electrical Engineers(AIEE) founded?",
+      "answers": [
+        {
+          "id": 1,
+          "score": 4,
+          "answer": "1850s"
+        },
+        {
+          "id": 2,
+          "score": 0,
+          "answer": "1880s"
+        }
+      ],
+      "correctAnswerID": 2
+    },
+    {
+      "questionID": 5,
+      "title": "Inventions",
+      "detail": "Which scientist discovered the radioactive element radium?",
+      "answers": [
+        {
+          "id": 1,
+          "score": 4,
+          "answer": "Isaac Newton"
+        },
+        {
+          "id": 2,
+          "score": 3,
+          "answer": "Albert Einstein"
+        },
+        {
+          "id": 3,
+          "score": 2,
+          "answer": "Benjamin Franklin"
+        },
+        {
+          "id": 4,
+          "score": 1,
+          "answer": "Marie Curie"
+        }
+      ],
+      "correctAnswerID": 4
+    }
+  ]
+}
